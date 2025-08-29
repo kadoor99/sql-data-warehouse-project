@@ -30,3 +30,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Tal Lyapin**. I am a data analyst who specializes in building data solutions, dashboards, and models that turn complex data into clear, actionable insights. Skilled in Python, SQL, Power BI, dbt, Spark, and Snowflake, I focus on using data to optimize performance and guide strategic decisions.
